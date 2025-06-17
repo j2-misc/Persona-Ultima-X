@@ -2,14 +2,14 @@
 publish: true
 ---
 > [!NOTE] [[StickyRicky]]
-> Just saw ==Jumanji== on Broadway. Anyone else seen it yet?
+> Just saw Jumanji on Broadway. Anyone else seen it yet?
 
 > [!NOTE] [[jersey_devil]]
-> it was a total waste of time. absolute bullshit movie. effects alone do not a play make.
+> it was a total waste of time. absolute bullshit. effects alone do not a play make.
 
 > [!NOTE] [[StickyRicky]]
 > > [!NOTE] [[jersey_devil]]
-> > it was a total waste of time. absolute bullshit movie. effects alone do not a play make.
+> > it was a total waste of time. absolute bullshit. effects alone do not a play make.
 > 
 > I thought it was pretty good, actually. Obviously the story was a little light (I think to make room for the live monkey performance), but Robin Williams's performance, I thought, was very satisfying.
 
